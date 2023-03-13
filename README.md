@@ -1,7 +1,7 @@
 # College-Management-System
 > PHP, MySQL, HTML, Bootstrap, Xampp, PhpMyAdmin were used.
 ---
-Developed a database system for the Databases class 2019-2020 Spring semester that includes login options for students and lecturers. See GIFs or clone repository for more information.
+- Developed a database system for the Databases class 2019-2020 Spring semester that includes login options for students and lecturers. See GIFs or clone repository for more information.
 ---
 ### Quick Overview
 #### - [Installation](#Installation)
